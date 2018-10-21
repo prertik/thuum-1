@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798693596620",
+    "firebase_url": "https://thuum-a0fb1.firebaseio.com",
+    "project_id": "thuum-a0fb1",
+    "storage_bucket": "thuum-a0fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798693596620:android:d17d83a5d52f7c1d",
+        "android_client_info": {
+          "package_name": "com.spaceapps.dovahkiin.thuum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798693596620-v9uo3qi8c49o4ujeg3610uua0d47gbq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spaceapps.dovahkiin.thuum",
+            "certificate_hash": "32e56c1dc26dd1e8f04e34e95d0fa65ab69ed17e"
+          }
+        },
+        {
+          "client_id": "798693596620-c8i3bnr7qiq1ahmi6s12iupt1h4qf3nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLOYWaOwSO2EAVXqMkJoZ8vCSMd_kC-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798693596620-c8i3bnr7qiq1ahmi6s12iupt1h4qf3nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
