@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/registerdialoga"
+              android:layout_width="250dp"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center"
+              android:orientation="vertical"
+              android:background="@drawable/rounddialog">
+
+    <EditText
+            android:id="@+id/dialogname"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:hint="@string/fullname"
+            android:inputType="textPersonName"
+            android:singleLine="true"
+            android:textSize="20sp"
+            android:textAlignment="center"/>
+
+    <EditText
+            android:id="@+id/registeremail"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress"
+            android:textSize="20sp" />
+
+    <EditText
+            android:id="@+id/registerpass"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textSize="20sp" />
+
+    <Button
+            android:id="@+id/alertbuttonregister"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="@string/register"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:textColor="@color/textprimary"
+            android:background="@drawable/roundedbutton"/>
+
+</LinearLayout>
