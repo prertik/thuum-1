@@ -34,7 +34,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="url" value="jar:file:/home/prayog/Downloads/android-studio/plugins/android/lib/android.jar!/images/material_design_icons/alert/ic_error_black_24dp.xml" />
+                                                <entry key="url" value="jar:file:/home/prayog/Downloads/android-studio/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_view_headline_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -55,7 +55,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="outputName" value="alert_icon" />
+                                      <entry key="outputName" value="browse_icon" />
                                       <entry key="theme" value="CUSTOM" />
                                       <entry key="themeColor" value="e57b26" />
                                     </map>

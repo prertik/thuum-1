@@ -7,4 +7,5 @@
     <string name="fullname">Full Name</string>
     <string name="email">Email</string>
     <string name="alert">Add Alert</string>
+    <string name="browse">Recent Wildfires</string>
 </resources>
